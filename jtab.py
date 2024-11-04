@@ -14,11 +14,10 @@ def writeColumn(strings: List[str], str_num: int, val: str):
       strings[idx] += "─"
 
 def writeChord(strings: List[str], chord: List[str]):
+  max_length = max(len(s) for s in chord)
   for i in range(len(strings)):
-    if chord[i] == "":
-      strings[i] += "─"
-    else:
-      strings[i] += chord[i]
+    padding = max_length - len(chord[i])
+    strings[i] += chord[i] + ("─" * padding)
 
 def formatTuningVal(val: str):
   return val.upper().ljust(2)
@@ -58,7 +57,6 @@ def parseJtab(jtab: str, tuning: List[str]):
     chord = None
     writingChord = False
     for idx, char in enumerate(line):
-      # debug(f"{char} {writingChord} {on_set_str_num} {cur_str_num} {chord}")
       if writingChord:
         if char == ".":
           continue

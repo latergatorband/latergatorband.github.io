@@ -1,8 +1,4 @@
-
-# all: clean index.html
-
-# clean:
-# 	rm -f index.html
+all: html index.html
 
 index.html: index.md template.html Makefile
 	pandoc --toc --filter jtab.py -s --css reset.css --css index.css -i $< -o $@ --template=template.html
@@ -16,9 +12,9 @@ $(HTML_DIR)/%.html: $(MARKDOWN_DIR)/%.md
 	pandoc --toc --filter jtab.py -s --css reset.css --css index.css -i $< -o $@ --template=template.html
 
 clean:
-	rm -f $(HTML_DIR)/*.html
+	find . -maxdepth 1 -name "*.html" ! -name "template.html" -exec rm {} +
 
 # Rule to build all HTML files from Markdown files
-all: $(patsubst $(MARKDOWN_DIR)/%.md,$(HTML_DIR)/%.html,$(wildcard $(MARKDOWN_DIR)/*.md))
+html: $(patsubst $(MARKDOWN_DIR)/%.md,$(HTML_DIR)/%.html,$(wildcard $(MARKDOWN_DIR)/*.md))
 
-.PHONY: all clean
+.PHONY: all index.html clean
