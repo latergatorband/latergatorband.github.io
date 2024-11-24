@@ -17,9 +17,8 @@ $if(description-meta)$
   <meta name="description" content="$description-meta$" />
 $endif$
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
-$for(css)$
-  <link rel="stylesheet" href="$css$" />
-$endfor$
+  <link rel="stylesheet" href="/reset.css" />
+  <link rel="stylesheet" href="/index.css" />
 $for(header-includes)$
   $header-includes$
 $endfor$
