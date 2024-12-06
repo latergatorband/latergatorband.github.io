@@ -1,5 +1,5 @@
 ---
-title: Later Gator! Tabs
+title: LaterGator
 subtitle: Tabs + Lyrics
 date: 2024-11-23
 version: 1.0.0
