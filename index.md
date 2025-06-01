@@ -6,6 +6,8 @@ version: 1.0.0
 lang: en
 ---
 
+- Smile Softer (Single)
+  - [Smile Softer - Guitar](./tabs/smile_softer_guitar.html)
 - Hard to Say (EP)
   - [Spaceman Spiff - Guitar](./tabs/spaceman_spiff_guitar.html)
   - [Third Beer - Guitar](./tabs/third_beer_guitar.html)
