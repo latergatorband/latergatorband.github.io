@@ -1,6 +1,6 @@
 ---
-title: Later Gator! Tabs
-subtitle: Guitar and bass tabs for our music
+title: LaterGator
+subtitle: Tabs + Lyrics
 date: 2024-11-23
 version: 1.0.0
 lang: en
@@ -9,13 +9,24 @@ lang: en
 - Smile Softer (Single)
   - [Smile Softer - Guitar](./tabs/smile_softer_guitar.html)
 - Hard to Say (EP)
-  - [Spaceman Spiff - Guitar](./tabs/spaceman_spiff_guitar.html)
-  - [Third Beer - Guitar](./tabs/third_beer_guitar.html)
-  - [Grown Ups - Guitar](./tabs/grown_ups_guitar.html)
-  - [True Blues - Guitar](./tabs/true_blues_guitar.html)
-  - [That's So Craven! - Guitar](./tabs/thats_so_craven_guitar.html)
+  - Lyrics
+    - [Spaceman Spiff](./lyrics/lyrics_spaceman_spiff.html)
+    - [Third Beer](./lyrics/lyrics_third_beer.html)
+    - [Grown Ups](./lyrics/lyrics_grown_ups.html)
+    - [True Blues](./lyrics/lyrics_true_blues.html)
+    - [That's So Craven!](./lyrics/lyrics_thats_so_craven.html)
+  - Tabs
+    - [Spaceman Spiff - Guitar](./tabs/spaceman_spiff_guitar.html)
+    - [Third Beer - Guitar](./tabs/third_beer_guitar.html)
+    - [Grown Ups - Guitar](./tabs/grown_ups_guitar.html)
+    - [True Blues - Guitar](./tabs/true_blues_guitar.html)
+    - [That's So Craven! - Guitar](./tabs/thats_so_craven_guitar.html)
 - Breath into the Bargain (Single)
-  - [Whispers - Guitar](./tabs/whispers_guitar.html)
-  - [Whispers - Bass](./tabs/whispers_bass.html)
-  - [Breath into the Bargain - Guitar](./tabs/breath_into_the_bargain_guitar.html)
-  - [Breath into the Bargain - Bass](./tabs/breath_into_the_bargain_bass.html)
+  - Lyrics
+    - [Whispers](./lyrics/lyrics_whispers.html)
+    - [Breath into the Bargain](./lyrics/lyrics_bitb.html)
+  - Tabs
+    - [Whispers - Guitar](./tabs/whispers_guitar.html)
+    - [Whispers - Bass](./tabs/whispers_bass.html)
+    - [Breath into the Bargain - Guitar](./tabs/breath_into_the_bargain_guitar.html)
+    - [Breath into the Bargain - Bass](./tabs/breath_into_the_bargain_bass.html)
