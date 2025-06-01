@@ -7,6 +7,7 @@ lang: en
 ---
 
 - Smile Softer (Single)
+  - [Smile Softer - Lyrics](./lyrics/lyrics_smile_softer.html)
   - [Smile Softer - Guitar](./tabs/smile_softer_guitar.html)
 - Hard to Say (EP)
   - Lyrics
