@@ -14,7 +14,7 @@ And I promise I've been trying\
 To do it like you showed me\
 But I have been\
 Rejected by its leaves\
-
+\
 And I know you knew I loved you\
 But I wish I'd said it more\
 Because I have this awful feeling\
@@ -22,7 +22,7 @@ That you died feeling ignored\
 And it's so fucking typical\
 While everybody grieves\
 I find a way to make it about me\
-
+\
 So was it hard to say goodbye\
 And have to do so with a brave face\
 While the people you look up to\
@@ -31,7 +31,7 @@ Did that make you feel loved\
 Or did it just make you feel guilty\
 That's enough\
 I'm not ready to know\
-
+\
 And I dragged my\
 Feet across your hallway\
 Hoping I'd melt through the floor\
@@ -41,7 +41,7 @@ I've never been in there without you\
 Who know if it's even still there\
 I tuck my tail\
 And retreat downstairs\
-
+\
 So was it hard to say goodbye\
 And have to do so with a brave face\
 While the people you look up to\
@@ -50,7 +50,7 @@ Did that make you feel loved\
 Or did it just make you feel guilty\
 That's enough\
 I'm not ready to know\
-
+\
 And I\
 Couldn't be more of a coward\
 If I were to try\
@@ -62,7 +62,7 @@ As if you needed someone\
 To tell you you're fine\
 As if not letting go of you\
 Would have somehow saved your life\
-
+\
 So was it hard to say goodbye\
 And have to do so with a brave face\
 While the people you look up to\
@@ -71,7 +71,7 @@ Did that make you feel loved\
 Or did it just make you feel guilty\
 That's enough\
 I'm not ready to know\
-
+\
 So was it hard to say goodbye\
 And have to do so with a brave face\
 While the people you look up to\

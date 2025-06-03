@@ -15,7 +15,7 @@ Eat the lotus and leave me behind\
 The apathy is yours\
 And the memories are now\
 Only mine\
-
+\
 Fuck this\
 I would have thought by now\
 I wouldn't be getting left out of\
@@ -28,14 +28,14 @@ I'm still\
 A nearly limitless\
 Pool for your expectations\
 And I am damn near done\
-
+\
 Even with all of us in the same room\
 It doesn't feel the same anymore\
 I used to act the oldest in the group\
 But I haven't aged a day in years\
 Foolishly convinced that to stay the same is the key\
 For friends to stay with me\
-
+\
 I'm just the third beer you had last night\
 A forgotten step along the way\
 From here to a better time\

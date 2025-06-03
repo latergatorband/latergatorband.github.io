@@ -6,11 +6,11 @@ version: 1.0.0
 lang: en
 ---
 
-I wish I could sleep all night
-I thought I was smart but they called my bluff
-I wish I could put up a fight
-Until I can figure this shit out
-I'll keep making coffee at ten to start my nights
+I wish I could sleep all night\
+I thought I was smart but they called my bluff\
+I wish I could put up a fight\
+Until I can figure this shit out\
+I'll keep making coffee at ten to start my nights\
 It's getting bad again\
 \
 I'm losing track of where I've been\
