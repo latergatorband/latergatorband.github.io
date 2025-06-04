@@ -24,7 +24,113 @@
     <td class="width-min"><time style="white-space: pre;">2025-06-03</time></td>
   </tr>
 </table>
-<p>Test</p>
+<nav id="TOC" role="doc-toc">
+<ul class="incremental">
+<li><a href="#bill-of-materials" id="toc-bill-of-materials">Bill of
+Materials</a>
+<ul class="incremental">
+<li><a href="#wood" id="toc-wood">Wood</a></li>
+<li><a href="#hardware" id="toc-hardware">Hardware</a></li>
+<li><a href="#miscellaneous"
+id="toc-miscellaneous">Miscellaneous</a></li>
+<li><a href="#optional-stain-finish"
+id="toc-optional-stain-finish">(Optional) Stain + Finish</a></li>
+</ul></li>
+<li><a href="#design" id="toc-design">Design</a></li>
+<li><a href="#assembly-process" id="toc-assembly-process">Assembly
+Process</a></li>
+<li><a href="#cad-assembly" id="toc-cad-assembly">CAD Assembly</a></li>
+</ul>
+</nav>
+<h2 id="bill-of-materials">Bill of Materials</h2>
+<h3 id="wood">Wood</h3>
+<ul class="incremental">
+<li>[1] sheet of 5/8” thick plywood. I cut this out of a standard 4’ x
+8’ piece, but only about 2’ x 3’ is really needed.</li>
+<li>[1] 1”x12”x8’ pine, I found this in the shelving section of
+Lowe’s</li>
+<li>[2] 1”x2”x8’ furring strips</li>
+</ul>
+<h3 id="hardware">Hardware</h3>
+<ul class="incremental">
+<li>[14] #10 x 3” bolts</li>
+<li>[14] #10 nuts + washers</li>
+<li>[4] 1/4-20 x 2” bolts</li>
+<li>[4] 1/4-20 nuts + washers</li>
+<li>[12] 2” deck screws, really any countersunk 2”+ wood screws are
+fine</li>
+<li>[30ish?] A bunch of ~1” wood screws for attaching the internal
+bracing and back plate</li>
+</ul>
+<h3 id="miscellaneous">Miscellaneous</h3>
+<ul class="incremental">
+<li>[2] handles, I bought <a
+href="https://www.amazon.com/dp/B00JQYVJNS?ref=ppx_yo2ov_dt_b_fed_asin_title">these
+Reliable Hardware Company ones</a></li>
+<li>[4] rubber feet, any will do but I bought <a
+href="https://www.amazon.com/dp/B00S48P2YY?ref=ppx_yo2ov_dt_b_fed_asin_title">these</a></li>
+<li>Roughly 2’ x 15” of grill cloth, I bought <a
+href="https://www.amazon.com/dp/B07F3YS99J?ref=ppx_yo2ov_dt_b_fed_asin_title&amp;th=1">this</a></li>
+<li>[1] 1/4” mono jack, I think I grabbed one out of a broken guitar
+pedal</li>
+<li>About 2’ of insulated wiring to connect the jack and speaker</li>
+</ul>
+<h3 id="optional-stain-finish">(Optional) Stain + Finish</h3>
+<ul class="incremental">
+<li>Wood stain (I used a walnut stain)</li>
+<li>Tung Oil</li>
+</ul>
+<h2 id="design">Design</h2>
+<p>There’s a ton of design work that <em>can</em> go into building
+guitar cabinets like is done for Hi-Fi speakers, with things like <a
+href="">Thiele-Small parameters</a> and <a
+href="https://www.audiocircle.com/index.php?topic=46637.0">using the
+Golden Ratio for the enclosure dimensions</a>. I spent a while looking
+into all of this, but it seemed like the lo-fi and non-linear nature of
+guitar speakers means that, at least for a closed-back cabinet that I
+was looking to build, the dimensions of the cabinet did not matter
+much.</p>
+<p>With that in mind, I still opted to start with a golden ratio design
+and then work from there to make the cabinet easy to build. I wanted the
+cabinet to be 25” wide to match the amp head I built previously, and I
+calculated the other dimensions from there. Setting 25” as the long
+dimension, this gives dimensions of</p>
+<ul class="incremental">
+<li>Width: 25”</li>
+<li>Height: 25 / 1.6 = 15.625”</li>
+<li>Depth: 15.625” x 0.6 = 9.375”</li>
+</ul>
+<p>Though the 25” measurement was an external one, I wanted to ensure
+that there was at least 9” of internal depth to give the speaker plenty
+of room relative to the input jack. This fit well with using a pine 1x12
+(actual 3/4” by 11 1/4”) for the frame.</p>
+<p>Though internal volume is the number that actually makes a difference
+in the speaker response, it was easy enough to calculate the external
+volume and use that as a point of comparison to other popular 1x12
+extension cabinets. The above specs result in an external volume of 4394
+in^3, which is less than the huge closed back 1x12 from Emperor, but
+also a decent bit larger than the Bogner Cube (although that’s ported
+for additional low end response). A large cabinet might have resulted in
+a slightly better bass response but again, these things don’t seem to
+make much of a difference for guitar speakers and the midrange focus of
+electric guitar.</p>
+<h2 id="assembly-process">Assembly Process</h2>
+<ul class="incremental">
+<li>frame</li>
+<li>bracing/mounting points</li>
+<li>baffle/back</li>
+<li>final assembly</li>
+</ul>
+<h2 id="cad-assembly">CAD Assembly</h2>
+<p>For a clearer picture of how the pieces fit together, here’s the
+Onshape CAD assembly for the cabinet:</p>
+<p><a
+href="https://cad.onshape.com/documents/a8e99d359d06e281134f1993/w/de057f5f0dc9ce846859dc1a/e/7b6bebf37df140934a427da3?configuration=default&amp;renderMode=0&amp;uiState=683f8d0d5b9c4020e70d1d25">CAD
+assembly in Onshape</a></p>
+<figure>
+<img src="../cab_transparent.png" alt="Cabinet CAD render" />
+<figcaption aria-hidden="true">Cabinet CAD render</figcaption>
+</figure>
   <!-- <script src="index.js"></script> -->
 </body>
 </html>
