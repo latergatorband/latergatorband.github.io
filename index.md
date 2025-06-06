@@ -1,11 +1,12 @@
 ---
 title: LaterGator
-subtitle: Tabs + Lyrics
+subtitle: Tabs + Lyrics + Extra
 date: 2024-11-23
 version: 1.0.0
 lang: en
 ---
 
+- [Speaker Cabinet build plans](./misc/cab.html)
 - Smile Softer (Single)
   - [Smile Softer - Lyrics](./lyrics/lyrics_smile_softer.html)
   - [Smile Softer - Guitar](./tabs/smile_softer_guitar.html)

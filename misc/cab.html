@@ -26,6 +26,7 @@
 </table>
 <nav id="TOC" role="doc-toc">
 <ul class="incremental">
+<li><a href="#cad-assembly" id="toc-cad-assembly">CAD Assembly</a></li>
 <li><a href="#bill-of-materials" id="toc-bill-of-materials">Bill of
 Materials</a>
 <ul class="incremental">
@@ -38,10 +39,32 @@ id="toc-optional-stain-finish">(Optional) Stain + Finish</a></li>
 </ul></li>
 <li><a href="#design" id="toc-design">Design</a></li>
 <li><a href="#assembly-process" id="toc-assembly-process">Assembly
-Process</a></li>
-<li><a href="#cad-assembly" id="toc-cad-assembly">CAD Assembly</a></li>
+Process</a>
+<ul class="incremental">
+<li><a href="#frame" id="toc-frame">Frame</a></li>
+<li><a href="#baffle-mounts" id="toc-baffle-mounts">Baffle
+Mounts</a></li>
+<li><a href="#baffle" id="toc-baffle">Baffle</a></li>
+<li><a href="#final-assembly" id="toc-final-assembly">Final
+Assembly</a></li>
+</ul></li>
 </ul>
 </nav>
+<figure>
+<img src="../cab.jpg" alt="Finished cab with associated amp head" />
+<figcaption aria-hidden="true">Finished cab with associated amp
+head</figcaption>
+</figure>
+<h2 id="cad-assembly">CAD Assembly</h2>
+<p>For a clearer picture of how the pieces fit together, here’s the
+Onshape CAD assembly for the cabinet:</p>
+<p><a
+href="https://cad.onshape.com/documents/a8e99d359d06e281134f1993/w/de057f5f0dc9ce846859dc1a/e/7b6bebf37df140934a427da3?configuration=default&amp;renderMode=0&amp;uiState=683f8d0d5b9c4020e70d1d25">CAD
+assembly in Onshape</a></p>
+<figure>
+<img src="../cab_transparent.png" alt="Cabinet CAD render" />
+<figcaption aria-hidden="true">Cabinet CAD render</figcaption>
+</figure>
 <h2 id="bill-of-materials">Bill of Materials</h2>
 <h3 id="wood">Wood</h3>
 <ul class="incremental">
@@ -54,9 +77,9 @@ Lowe’s</li>
 <h3 id="hardware">Hardware</h3>
 <ul class="incremental">
 <li>[14] #10 x 3” bolts</li>
-<li>[14] #10 nuts + washers</li>
+<li>[28] #10 nuts + washers</li>
 <li>[4] 1/4-20 x 2” bolts</li>
-<li>[4] 1/4-20 nuts + washers</li>
+<li>[8] 1/4-20 nuts + washers</li>
 <li>[12] 2” deck screws, really any countersunk 2”+ wood screws are
 fine</li>
 <li>[30ish?] A bunch of ~1” wood screws for attaching the internal
@@ -77,13 +100,15 @@ pedal</li>
 </ul>
 <h3 id="optional-stain-finish">(Optional) Stain + Finish</h3>
 <ul class="incremental">
+<li>Black spraypaint</li>
 <li>Wood stain (I used a walnut stain)</li>
 <li>Tung Oil</li>
 </ul>
 <h2 id="design">Design</h2>
 <p>There’s a ton of design work that <em>can</em> go into building
 guitar cabinets like is done for Hi-Fi speakers, with things like <a
-href="">Thiele-Small parameters</a> and <a
+href="https://en.wikipedia.org/wiki/Thiele/Small_parameters">Thiele-Small
+parameters</a> and <a
 href="https://www.audiocircle.com/index.php?topic=46637.0">using the
 Golden Ratio for the enclosure dimensions</a>. I spent a while looking
 into all of this, but it seemed like the lo-fi and non-linear nature of
@@ -115,22 +140,84 @@ a slightly better bass response but again, these things don’t seem to
 make much of a difference for guitar speakers and the midrange focus of
 electric guitar.</p>
 <h2 id="assembly-process">Assembly Process</h2>
+<h3 id="frame">Frame</h3>
+<p>Cut the 1x12x8’ board into sections of</p>
 <ul class="incremental">
-<li>frame</li>
-<li>bracing/mounting points</li>
-<li>baffle/back</li>
-<li>final assembly</li>
+<li>2 x 25” lengths (top and bottom sections)</li>
+<li>2 x 14 1/8” lengths (sides)</li>
 </ul>
-<h2 id="cad-assembly">CAD Assembly</h2>
-<p>For a clearer picture of how the pieces fit together, here’s the
-Onshape CAD assembly for the cabinet:</p>
-<p><a
-href="https://cad.onshape.com/documents/a8e99d359d06e281134f1993/w/de057f5f0dc9ce846859dc1a/e/7b6bebf37df140934a427da3?configuration=default&amp;renderMode=0&amp;uiState=683f8d0d5b9c4020e70d1d25">CAD
-assembly in Onshape</a></p>
-<figure>
-<img src="../cab_transparent.png" alt="Cabinet CAD render" />
-<figcaption aria-hidden="true">Cabinet CAD render</figcaption>
-</figure>
+<p>Assemble the four boards as the frame of the cabinet with the sides
+sandwiched between the top and bottom.</p>
+<ol class="incremental" type="1">
+<li>Drill 3 pilot holes per side through the top of the frame into the
+sides.</li>
+<li>Remove the top, drill clearance holes for your 2” deck screws
+through the pilot holes</li>
+<li>Repeat steps 1 and 2 for the bottom of the frame.</li>
+<li>Join the frame with the 2” deck screws. Wood glue is optional, I
+just used screws.</li>
+</ol>
+<h3 id="baffle-mounts">Baffle Mounts</h3>
+<p>Cut the 1x2 furring strips into sections of</p>
+<ul class="incremental">
+<li>4 x 23 1/2” lengths (or a bit less, should fit into the frame)</li>
+<li>4 x 14 1/8” lengths (or a bit less, should fit vertically into the
+frame)</li>
+</ul>
+<p>Drill 3 clearance holes (for the 1” wood screws) through the 2” width
+of each of the furring strips. The exact location of these holes doesn’t
+make that much of a difference, it’s just necessary to check before
+installing the baffle and back plates that their screws won’t hit these
+mounting screws.</p>
+<p>Join the front’s furring strips to the frame with the 1” wood screws,
+set back from the edge of the frame such that there is 1” between the
+edge of the frame and the furring strip. I didn’t use pilot holes for
+these furring strips, just drive the screws through the clearance
+holes.</p>
+<p>Apply the same process for the back’s furring strips, setting them
+back 5/8” instead of 1” like for the front.</p>
+<h3 id="baffle">Baffle</h3>
+<p>Cut 2, 23 1/2” x 14 1/8” sections of the plywood. Set one section
+aside for the back.</p>
+<p>Use a compass to sketch a 11.1” diameter circle on the center of the
+baffle. Use a jigsaw to remove this circle of wood.</p>
+<p>Line your speaker up with the baffle hole, ensuring that the speaker
+mount holes have sufficient material outside the baffle hole. Mark these
+holes, remove the speaker, and drill clearance holes for the 1/4-20
+bolts.</p>
+<p>Place the baffle into the frame against the furring strips. Drill
+clearance holes for the #10 bolts through the baffle and the furring
+strips. I put 4 bolts along the top and bottom of the baffle and 3 on
+each side. This might be overkill, I’m not sure.</p>
+<p>Remove the baffle, and counterbore each of the holes to 1” diameter
+and about 3/8” depth. I used a drill press for this to prevent the bit
+from walking as much. There may not be enough material on most of the
+holes to prevent a side of the counterbore hole from being open to the
+outside of the piece or the baffle hole, this is alright.</p>
+<p>Capture the 4 1/4-20 bolts for the speaker mount, and the 14 #10
+bolts for the baffle mounting, in the counterbore holes in the baffle
+using their associated nuts + washers.</p>
+<p>Once all of the bolts are captured on the baffle, apply grill cloth
+over the front (bolt head side) of the baffle. I put a coat of black
+spray paint on this side first before applying the grill cloth to make
+it harder to see the plywood through the cloth, but up to you on whether
+that will make a difference. I fastened the grill cloth with a staple
+gun.</p>
+<h3 id="final-assembly">Final Assembly</h3>
+<p>Place the baffle in its holes in the front of the frame. This might
+require a bit of work with a rubber mallet to get it to line up
+properly. Use 14 more of the #10 nuts and washers to fasten the bolts
+from the inside of the cabinet.</p>
+<p>Attach the speaker to its 4 mounting bolts with the remaining 1/4-20
+nuts. Attach the 1/4” jack with a spade connectors or solder.</p>
+<p>Place the back in the frame. Drill pilot holes into the furring
+strips. I used a similar 14 hole pattern as with the baffle. Remove the
+back, drill clearance holes for the 1” wood screws and a clearance hole
+for the 1/4” jack. Place the back in the frame again, attaching the 1/4”
+jack and driving in the wood screws.</p>
+<p>The method for attaching the handles will differ by the model you
+choose. For the handles I linked above, I measured the indent and
+removed that amount of wood from the sides using a jigsaw.</p>
   <!-- <script src="index.js"></script> -->
 </body>
 </html>
