@@ -24,6 +24,7 @@ lang: en
     - [Third Beer - Bass](./tabs/third_beer_bass.html)
     - [Grown Ups - Guitar](./tabs/grown_ups_guitar.html)
     - [True Blues - Guitar](./tabs/true_blues_guitar.html)
+    - [True Blues - Bass](./tabs/true_blues_bass.html)
     - [That's So Craven! - Guitar](./tabs/thats_so_craven_guitar.html)
 - Breath into the Bargain (Single)
   - Lyrics
