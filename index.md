@@ -21,6 +21,7 @@ lang: en
   - Tabs
     - [Spaceman Spiff - Guitar](./tabs/spaceman_spiff_guitar.html)
     - [Third Beer - Guitar](./tabs/third_beer_guitar.html)
+    - [Third Beer - Bass](./tabs/third_beer_bass.html)
     - [Grown Ups - Guitar](./tabs/grown_ups_guitar.html)
     - [True Blues - Guitar](./tabs/true_blues_guitar.html)
     - [That's So Craven! - Guitar](./tabs/thats_so_craven_guitar.html)
