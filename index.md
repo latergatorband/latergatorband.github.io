@@ -10,6 +10,7 @@ lang: en
 - Smile Softer (Single)
   - [Smile Softer - Lyrics](./lyrics/lyrics_smile_softer.html)
   - [Smile Softer - Guitar](./tabs/smile_softer_guitar.html)
+  - [Smile Softer - Bass](./tabs/smile_softer_bass.html)
 - Hard to Say (EP)
   - Lyrics
     - [Spaceman Spiff](./lyrics/lyrics_spaceman_spiff.html)
