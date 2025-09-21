@@ -26,6 +26,7 @@ lang: en
     - [True Blues - Guitar](./tabs/true_blues_guitar.html)
     - [True Blues - Bass](./tabs/true_blues_bass.html)
     - [That's So Craven! - Guitar](./tabs/thats_so_craven_guitar.html)
+    - [That's So Craven! - Bass](./tabs/thats_so_craven_bass.html)
 - Breath into the Bargain (Single)
   - Lyrics
     - [Whispers](./lyrics/lyrics_whispers.html)
