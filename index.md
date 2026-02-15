@@ -42,7 +42,7 @@ lang: en
   - [Yurt - Guitar](./tabs/yurt_guitar.html)
   - [Ska Punk - Guitar](./tabs/ska_punk.html)
   - [Ska Punk - Bass](./tabs/ska_punk_bass.html)
-  - Maybe It'd Be Different
+  - [Maybe Diffy - Guitar](./tabs/maybe_diffy_guitar.html)
   - [Windows - Guitar](./tabs/windows_guitar.html)
   - [Windows - Bass](./tabs/windows_bass.html)
   - [SV - Guitar](./tabs/sv_guitar.html)
