@@ -38,6 +38,7 @@ lang: en
     - [Breath into the Bargain - Bass](./tabs/breath_into_the_bargain_bass.html)
 - LP1 (shhh top secret)
   - [Cowboy TV - Guitar](./tabs/cowboy_tv_guitar.html)
+  - [Cowboy TV - Bass](./tabs/cowboy_tv_bass.html)
   - [Oppy - Guitar](./tabs/oppy_guitar.html)
   - [Yurt - Guitar](./tabs/yurt_guitar.html)
   - [Ska Punk - Guitar](./tabs/ska_punk.html)
