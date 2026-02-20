@@ -2,7 +2,7 @@
 title: LaterGator
 subtitle: Tabs + Lyrics + Extra
 date: 2024-11-23
-version: 1.0.0
+version: 2.0.0
 lang: en
 ---
 
@@ -41,9 +41,11 @@ lang: en
   - [Cowboy TV - Bass](./tabs/cowboy_tv_bass.html)
   - [Oppy - Guitar](./tabs/oppy_guitar.html)
   - [Yurt - Guitar](./tabs/yurt_guitar.html)
+  - [Yurt - Bass](./tabs/yurt_bass.html)
   - [Ska Punk - Guitar](./tabs/ska_punk.html)
   - [Ska Punk - Bass](./tabs/ska_punk_bass.html)
   - [Maybe Diffy - Guitar](./tabs/maybe_diffy_guitar.html)
+  - [Maybe Diffy - Bass](./tabs/maybe_diffy_bass.html)
   - [Windows - Guitar](./tabs/windows_guitar.html)
   - [Windows - Bass](./tabs/windows_bass.html)
   - [SV - Guitar](./tabs/sv_guitar.html)
