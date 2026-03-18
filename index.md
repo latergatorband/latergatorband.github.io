@@ -40,6 +40,7 @@ lang: en
   - [Cowboy TV - Guitar](./tabs/cowboy_tv_guitar.html)
   - [Cowboy TV - Bass](./tabs/cowboy_tv_bass.html)
   - [Oppy - Guitar](./tabs/oppy_guitar.html)
+  - [Oppy - Bass](./tabs/oppy_bass.html)
   - [Yurt - Guitar](./tabs/yurt_guitar.html)
   - [Yurt - Bass](./tabs/yurt_bass.html)
   - [Ska Punk - Guitar](./tabs/ska_punk.html)
