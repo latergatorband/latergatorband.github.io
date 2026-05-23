@@ -9,8 +9,10 @@ lang: en
 - [It's All Temporary + See You](./misc/latergator.html)
 - [Speaker Cabinet build plans](./misc/cab.html)
 - It's All Temporary (LP)
-  - [Cowboy TV - Guitar](./tabs/cowboy_tv_guitar.html)
-  - [Cowboy TV - Bass](./tabs/cowboy_tv_bass.html)
+  - Cowboy TV
+    - [Lyrics](./lyrics/lyrics_cowboy_tv.htmll)
+    - [Guitar Tabs](./tabs/cowboy_tv_guitar.html)
+    - [Bass Tabs](./tabs/cowboy_tv_bass.html)
   - [Skalex Trebek - Guitar](./tabs/ska_punk.html)
   - [Skalex Trebek- Bass](./tabs/ska_punk_bass.html)
   - [Windows XP - Guitar](./tabs/windows_guitar.html)
