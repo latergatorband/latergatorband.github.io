@@ -10,7 +10,7 @@ lang: en
 - [Speaker Cabinet build plans](./misc/cab.html)
 - It's All Temporary (LP)
   - Cowboy TV
-    - [Lyrics](./lyrics/lyrics_cowboy_tv.htmll)
+    - [Lyrics](./lyrics/lyrics_cowboy_tv.html)
     - [Guitar Tabs](./tabs/cowboy_tv_guitar.html)
     - [Bass Tabs](./tabs/cowboy_tv_bass.html)
   - Skalex Trebek

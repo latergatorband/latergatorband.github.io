@@ -461,3 +461,9 @@ label input {
 .jtab {
   line-height: 1.25em;
 }
+
+br {
+  display: block;
+  margin: 0;
+  line-height: 0;
+}
