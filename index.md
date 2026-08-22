@@ -8,6 +8,8 @@ lang: en
 
 - [See You](./misc/latergator.html)
 - [Speaker Cabinet build plans](./misc/cab.html)
+- Gunnin' for the Gold (single)
+  - [Lyrics](./lyrics/lyrics_gunnin.html)
 - It's All Temporary (LP)
   - Cowboy TV
     - [Lyrics](./lyrics/lyrics_cowboy_tv.html)

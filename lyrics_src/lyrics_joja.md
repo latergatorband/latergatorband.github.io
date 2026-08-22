@@ -9,7 +9,7 @@ lang: en
 We planted a row of hickory trees\
 In your last year on the farm\
 On the ridge right past the persimmons\
-You said they’d-have\
+You said they’d have\
 Plenty of room to grow tall\
 A parting gift as you left for hospice\
 Your way to leave the world better than you found it\
